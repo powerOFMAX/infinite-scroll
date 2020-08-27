@@ -1,0 +1,26 @@
+{
+  "houses": [
+    {
+      "id": 3,
+      "address": "52 South Ridge St. Vienna, VA 22180",
+      "homeowner": "Lucca Benson",
+      "price": 152639,
+      "photoURL": "https://image.shutterstock.com/image-photo/traditional-english-semidetached-house-260nw-231369511.jpg"
+    },
+    {
+      "id": 4,
+      "address": "7798 Poplar St. Stillwater, MN 55082",
+      "homeowner": "Adelle Steadman",
+      "price": 222178,
+      "photoURL": "https://image.shutterstock.com/image-photo/big-custom-made-luxury-house-260nw-374099713.jpg"
+    },
+    {
+      "id": 5,
+      "address": "606 Silver Spear Lane Defiance, OH 43512",
+      "homeowner": "Haya Pena",
+      "price": 236163,
+      "photoURL": "https://image.shutterstock.com/image-photo/houses-built-circa-1960-on-260nw-177959672.jpg"
+    }
+  ],
+  "ok": true
+}
